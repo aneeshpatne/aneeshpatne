@@ -11,19 +11,19 @@ If you're as enthusiastic about coding as I am, dive into my repositories to exp
 ## Technologies and Tools
 
 ### Languages
-[![Languages](https://skillicons.dev/icons?i=py,js&theme=dark)]
+![Languages](https://skillicons.dev/icons?i=py,js&theme=dark)
 
 ### Frontend
-[![Frontend](https://skillicons.dev/icons?i=html,css,js,react)]
+![Frontend](https://skillicons.dev/icons?i=html,css,js,react)
 
 ### Backend
-[![Backend](https://skillicons.dev/icons?i=nodejs,django)]
+![Backend](https://skillicons.dev/icons?i=nodejs,django)
 
 ### Database
-[![Database](https://skillicons.dev/icons?i=mysql,mongodb)]
+![Database](https://skillicons.dev/icons?i=mysql,mongodb)
 
 ### UI Design
--[![UI Design](https://skillicons.dev/icons?i=figma)]
+![UI Design](https://skillicons.dev/icons?i=figma)
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/aneeshpatne/)
