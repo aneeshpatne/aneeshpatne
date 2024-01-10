@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profile! 👋
+# Welcome to My GitHub Profile! ![Hand waving](img/hand.gif)
 
 Hey there, I'm Aneesh, and I'm passionate about coding and building exciting projects. Here's a glimpse of what you'll find in my repositories:
 
