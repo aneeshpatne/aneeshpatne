@@ -26,5 +26,5 @@ If you're as enthusiastic about coding as I am, dive into my repositories to exp
 ![UI Design](https://skillicons.dev/icons?i=figma)
 
 ## Connect with Me
-- ![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/aneeshpatne/)
+- [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/aneeshpatne/)
 - [LeetCode](https://leetcode.com/aneeshpatne/)
