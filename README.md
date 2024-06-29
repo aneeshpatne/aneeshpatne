@@ -19,6 +19,8 @@ If you're as enthusiastic about coding as I am, dive into my repositories to exp
 ### Backend
 ![Backend](https://skillicons.dev/icons?i=nodejs,django)
 
+### Cloud Platforms
+![Cloud](https://skillicons.dev/icons?i=gcp,firebase,vercel)
 ### Database
 ![Database](https://skillicons.dev/icons?i=mysql,mongodb)
 
