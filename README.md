@@ -14,7 +14,7 @@ If you're as enthusiastic about coding as I am, dive into my repositories to exp
 ![Languages](https://skillicons.dev/icons?i=py,js&theme=dark)
 
 ### Frontend
-![Frontend](https://skillicons.dev/icons?i=html,css,js,react)
+![Frontend](https://skillicons.dev/icons?i=html,css,js,react,nextjs)
 
 ### Backend
 ![Backend](https://skillicons.dev/icons?i=nodejs,django)
