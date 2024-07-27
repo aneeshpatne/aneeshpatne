@@ -1,6 +1,6 @@
-# Welcome to My GitHub Profile! 👋
+# Hi I am _Aneesh_ ! 👋
 
-Hey there, I'm Aneesh, and I'm passionate about coding and building exciting projects. Here's a glimpse of what you'll find in my repositories:
+I'm passionate about coding and building exciting projects. Here's a glimpse of what you'll find in my repositories:
 
 - 🌐 **Web Development Projects**: I love working with web technologies, and my projects span a wide range. You'll find projects using frameworks like **Django**, **React**, **Next.JS**,and even some **Sveltekit** applications.
 
