@@ -27,6 +27,9 @@ If you're as enthusiastic about coding as I am, dive into my repositories to exp
 ### UI Design
 ![UI Design](https://skillicons.dev/icons?i=figma)
 
+## Stats
+[![Aneesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aneeshpatne&theme=react-dark)](https://github.com/aneeshpatne/)
+
 ## Connect with Me
 - [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/aneeshpatne/)
 - [![Leetcode](img/lc.png)](https://leetcode.com/aneeshpatne/)
