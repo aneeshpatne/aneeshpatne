@@ -35,7 +35,7 @@ If you're as enthusiastic about coding as I am, dive into my repositories to exp
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=aneeshpatne&theme=react-dark" alt="GitHub Activity Graph" />
     </td>
     <td width="30%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aneeshpatne&layout=compact&theme=dark&langs_count=6&hide=jupyter%jupyter notebook,css,Handlebars, HTML" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aneeshpatne&layout=compact&theme=dark&langs_count=6&hide=jupyter%20notebook,css,Handlebars" alt="Top Languages" />
     </td>
   </tr>
 </table>
