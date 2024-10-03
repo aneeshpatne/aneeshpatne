@@ -31,10 +31,10 @@ If you're as enthusiastic about coding as I am, dive into my repositories to exp
 
 <table>
   <tr>
-    <td width="70%">
+    <td width="60%">
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=aneeshpatne&theme=react-dark" alt="GitHub Activity Graph" />
     </td>
-    <td width="30%">
+    <td width="40%">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aneeshpatne&layout=compact&theme=dark&langs_count=6&hide=HTML,jupyter%20notebook,css,Handlebars" alt="Top Languages" />
     </td>
   </tr>
