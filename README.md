@@ -25,7 +25,7 @@ If you're as enthusiastic about coding as I am, dive into my repositories to exp
 ![Database](https://skillicons.dev/icons?i=mysql,mongodb,redis)
 
 ### UI Design
-![UI Design](https://skillicons.dev/icons?i=figma)
+![UI Design](https://skillicons.dev/icons?i=photoshop,figma)
 
 ## Stats
 
