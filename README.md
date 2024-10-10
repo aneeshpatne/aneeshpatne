@@ -41,7 +41,7 @@ If you're as enthusiastic about coding as I am, dive into my repositories to exp
 </table>
 
 
-## Connect with Me
+## Know more about me
 - [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/aneeshpatne/)
 - [![Leetcode](img/lc.png)](https://leetcode.com/aneeshpatne/)
 
