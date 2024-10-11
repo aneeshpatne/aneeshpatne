@@ -39,6 +39,7 @@ If you're as enthusiastic about coding as I am, dive into my repositories to exp
     </td>
   </tr>
 </table>
+<img src"img/output.png/>
 
 
 ## Know more about me
