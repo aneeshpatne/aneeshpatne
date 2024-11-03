@@ -17,7 +17,7 @@ If you're as enthusiastic about coding as I am, dive into my repositories to exp
 ![Frontend](https://skillicons.dev/icons?i=react,nextjs,svelte,tailwind)
 
 ### Backend
-![Backend](https://skillicons.dev/icons?i=express,django)
+![Backend](https://skillicons.dev/icons?i=express,flask)
 
 ### Cloud Platforms
 ![Cloud](https://skillicons.dev/icons?i=gcp,firebase,vercel)
