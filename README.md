@@ -22,7 +22,7 @@ If you're as enthusiastic about coding as I am, dive into my repositories to exp
 ### Cloud Platforms
 ![Cloud](https://skillicons.dev/icons?i=gcp,firebase,vercel)
 ### Database
-![Database](https://skillicons.dev/icons?i=mysql,mongodb,redis)
+![Database](https://skillicons.dev/icons?i=postgresql,mongodb,redis)
 
 ### UI Design
 ![UI Design](https://skillicons.dev/icons?i=photoshop,figma)
