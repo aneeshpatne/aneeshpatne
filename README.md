@@ -11,7 +11,7 @@ If you're as enthusiastic about coding as I am, dive into my repositories to exp
 ## Technologies and Tools
 
 ### Languages
-![Languages](https://skillicons.dev/icons?i=py,js,java)
+![Languages](https://skillicons.dev/icons?i=py,ts,java)
 
 ### Frontend
 ![Frontend](https://skillicons.dev/icons?i=react,nextjs,svelte,tailwind)
