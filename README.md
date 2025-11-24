@@ -1,32 +1,48 @@
 # Hi I am _Aneesh_ ! 👋
 
-I'm passionate about coding and building exciting projects. Here's a glimpse of what you'll find in my repositories:
+I'm a passionate Developer building exciting projects across various domains. Here's a glimpse of what you'll find in my repositories:
 
-- 🌐 **Web Development Projects**: I love working with web technologies, and my projects span a wide range. You'll find projects using frameworks like **Express**, **FastAPI**, **Flask**, **Next.JS**, **React**, and even some **Sveltekit** applications.
+- 💻 **Development**: I build robust applications across web and mobile platforms. I use **Springboot**, **Node.js**, **Express**, **FastAPI**, **Flask**, **Next.JS**, and **React** for web and backend, and **Kotlin** for native Android development. I also work with event streaming using **Kafka**.
 
-- 🤖 **Artificial Intelligence**: I work on exciting AI projects involving AI summarization, inference engines, intelligent tools, and AI agents. My work focuses on cutting-edge AI applications and solutions. 
+- 🤖 **Artificial Intelligence**: I work on cutting-edge AI projects. I build **Conversational Agents** using **Vercel AI SDK** and orchestrate complex workflows with **LangGraph** and **Multi-agent systems**. My infrastructure relies on **Vector DBs** and **MCP (Model Context Protocol)**.
+
+- 🔌 **Embedded Systems & IoT**: I love tinkering with hardware! I build **Home Automation** and **Weather Systems** using **ESP32** and **ESP8266**. I also created an **E-paper Dashboard** that allows for **SSH** access.
 
 If you're as enthusiastic about coding as I am, dive into my repositories to explore my coding journey and contributions. Thanks for visiting my GitHub profile.
 
 ## Technologies and Tools
 
 ### Languages
-![Languages](https://skillicons.dev/icons?i=py,ts,java)
+
+![Languages](https://skillicons.dev/icons?i=py,ts,java,kotlin)
 
 ### Frontend
-![Frontend](https://skillicons.dev/icons?i=react,nextjs,svelte,tailwind)
+
+![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind)
 
 ### Backend
-![Backend](https://skillicons.dev/icons?i=express,flask)
 
-### Cloud Platforms
-![Cloud](https://skillicons.dev/icons?i=gcp,firebase,vercel)
+![Backend](https://skillicons.dev/icons?i=nodejs,spring,kafka,express,flask,fastapi)
+
+### Mobile
+
+![Mobile](https://skillicons.dev/icons?i=androidstudio,kotlin)
+
+### AI & ML
+
+![AI](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn)
+
+### Cloud & IoT
+
+![Cloud](https://skillicons.dev/icons?i=gcp,firebase,vercel,arduino)
+
 ### Database
+
 ![Database](https://skillicons.dev/icons?i=postgresql,mongodb,redis)
 
 ### UI Design
-![UI Design](https://skillicons.dev/icons?i=photoshop,figma)
 
+![UI Design](https://skillicons.dev/icons?i=photoshop,figma)
 
 ## Stats
 
@@ -47,10 +63,10 @@ If you're as enthusiastic about coding as I am, dive into my repositories to exp
 </table>
 
 ### Contribution Calendar
+
 ![GitHub Contribution Calendar](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aneeshpatne&theme=nord_dark)
 
-
-
 ## Know more about me
+
 - [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/aneeshpatne/)
 - [![Leetcode](img/lc.png)](https://leetcode.com/aneeshpatne/)
