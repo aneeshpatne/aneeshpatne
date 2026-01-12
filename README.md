@@ -32,141 +32,84 @@ I'm a developer who builds **production-ready systems** across the full stack. F
 
 ---
 
-## Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### [Curiosity](https://github.com/aneeshpatne/Curiosity)
-**AI-Powered Search & News Intelligence**
-
-Multi-modal search platform with 3 modes: Normal, Pro, and Deep Search (100+ source synthesis). Features real-time streaming, citation-backed answers, and automated daily news digests.
-
-`Next.js 15` `FastAPI` `LangChain` `OpenAI` `Playwright` `Socket.io`
-
-</td>
-<td width="50%">
-
-### [Suraksha](https://github.com/aneeshpatne/suraksha)
-**Enterprise Authentication Service**
-
-Production-ready multi-tenant auth with Email/Password, Magic URLs, 2FA/OTP, JWT (RS256), token rotation, and async email via RabbitMQ. Complete with API key management.
-
-`Spring Boot` `PostgreSQL` `Redis` `RabbitMQ` `JWT` `Flyway`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### [Chat](https://github.com/aneeshpatne/chat)
-**Unified Multi-Provider AI Platform**
-
-Access OpenAI, Claude, Gemini, Grok, DeepSeek, Llama & Qwen in one interface. Features session persistence, token tracking, reasoning model support, and real-time streaming.
-
-`Next.js 15` `Vercel AI SDK` `Supabase` `Drizzle ORM` `TypeScript`
-
-</td>
-<td width="50%">
-
-### [E-INK-Dashboard](https://github.com/aneeshpatne/E-INK-Dashboard)
-**Smart E-Paper Display System**
-
-Orchestration system for jailbroken Kindles as info displays. 4 display modes, automated scheduling, environmental sensors, news aggregation, and SSH-based remote management.
-
-`Node.js` `Puppeteer` `Redis` `SSH2` `Canvas` `Fbink`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### [GymDost](https://github.com/aneeshpatne/GymDost)
-**AI Fitness & Nutrition Tracker**
-
-Personalized fitness platform with AI-powered macro calculations, conversational meal logging using GPT-4.1, and real-time progress tracking with glassmorphism UI.
-
-`Next.js 15` `Prisma` `OpenAI` `Zustand` `TypeScript`
-
-</td>
-<td width="50%">
-
-### [Resume.AI](https://github.com/aneeshpatne/Resume.AI)
-**RAG-Powered Resume Chatbot**
-
-Interactive resume Q&A system using Retrieval-Augmented Generation. Supports multiple LLM providers including Groq, OpenRouter, and local models via Ollama.
-
-`Python` `LangChain` `ChromaDB` `Groq` `DeepSeek R1`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### [SmartLock](https://github.com/aneeshpatne/SmartLock) + [Android](https://github.com/aneeshpatne/SmartLockAndroid)
-**TOTP-Based Smart Lock System**
-
-ESP32 smart lock with companion Android authenticator. Features QR code setup, live OTP display with countdown, and RFC 6238 compliant TOTP generation.
-
-`Kotlin` `Jetpack Compose` `ESP32` `Arduino` `TOTP`
-
-</td>
-<td width="50%">
-
-### [CCTV](https://github.com/aneeshpatne/CCTV)
-**Self-Hosted Surveillance Stack**
-
-Complete CCTV automation with motion detection, RTSP restreaming, segmented recording, Telegram notifications, and nightly summaries with GPU compression.
-
-`Python` `FastAPI` `OpenCV` `FFmpeg` `ESP32-CAM` `Telegram Bot`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### [LifeSpan](https://github.com/aneeshpatne/LifeSpan)
-**Air Pollution Impact Calculator**
-
-Research-backed ML project analyzing PM2.5 impact on life expectancy. Implements ELM, Neural Networks, Random Forest, SVM, and KNN with 0.994 R² score.
-
-`Next.js` `Python` `D3.js` `scikit-learn` `NASA Data`
-
-</td>
-<td width="50%">
-
-### [practice-coder](https://github.com/aneeshpatne/practice-coder)
-**LeetCode-Style Coding Platform**
-
-Full-stack coding practice platform with Monaco editor, test execution, AI code reviews with quality scoring, and submission tracking.
-
-`React 19` `TypeScript` `Monaco Editor` `Vercel AI SDK` `Python Judge`
-
-</td>
-</tr>
-</table>
-
----
-
-## More Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [**Khoj**](https://github.com/aneeshpatne/Khoj) | CDC pipeline with Debezium, Kafka & OpenSearch | `PostgreSQL` `Kafka` `OpenSearch` `Docker` |
-| [**MarketPlace**](https://github.com/aneeshpatne/MarketPlace) | AI e-commerce search with web scraping | `Next.js` `FastAPI` `Playwright` `OpenAI` |
-| [**Dashboard**](https://github.com/aneeshpatne/Dashboard) | URL shortener + file sharing platform | `Next.js` `Supabase` `Prisma` `Express` |
-| [**goredis**](https://github.com/aneeshpatne/goredis) | Redis server implementation from scratch | `Go` `TCP` `RESP Protocol` |
-| [**CodeLog**](https://github.com/aneeshpatne/CodeLog) | Automated LeetCode question logging | `Flask` `Playwright` `LLM` |
-| [**FaceRecognition**](https://github.com/aneeshpatne/FaceRecognitionAttendenceSystem) | Real-time attendance with face detection | `Python` `OpenCV` `KNN/SVM` |
-
----
-
-## GitHub Trophies
+## Connect with Me
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aneeshpatne&theme=tokyonight&no-frame=true&no-bg=false&margin-w=10&margin-h=10&column=7" alt="GitHub Trophies"/>
+
+<a href="https://aneeshpatne.com">
+  <img src="https://img.shields.io/badge/Portfolio-aneeshpatne.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://www.linkedin.com/in/aneeshpatne/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://leetcode.com/aneeshpatne/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/>
+</a>
+<a href="mailto:aneeshpatne@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+
 </div>
+
+---
+
+## Projects by Domain
+
+### 🔐 Backend & Enterprise Systems
+
+**[Suraksha](https://github.com/aneeshpatne/suraksha)** - Production-ready multi-tenant auth service with Email/Password, Magic URLs, 2FA/OTP, JWT (RS256), token rotation, and RabbitMQ
+`Spring Boot` `PostgreSQL` `Redis` `RabbitMQ` `JWT` `Flyway`
+
+**[Khoj](https://github.com/aneeshpatne/Khoj)** - Change Data Capture pipeline with Debezium, Kafka & OpenSearch
+`PostgreSQL` `Kafka` `OpenSearch` `Docker`
+
+**[goredis](https://github.com/aneeshpatne/goredis)** - Redis server implementation from scratch
+`Go` `TCP` `RESP Protocol`
+
+### 🤖 AI & Machine Learning
+
+**[Curiosity](https://github.com/aneeshpatne/Curiosity)** - Multi-modal AI search with 3 modes (Normal/Pro/Deep Search with 100+ source synthesis), real-time streaming, and automated news digests
+`Next.js 15` `FastAPI` `LangChain` `OpenAI` `Playwright` `Socket.io`
+
+**[Chat](https://github.com/aneeshpatne/chat)** - Unified interface for OpenAI, Claude, Gemini, Grok, DeepSeek, Llama & Qwen with session persistence and token tracking
+`Next.js 15` `Vercel AI SDK` `Supabase` `Drizzle ORM` `TypeScript`
+
+**[Resume.AI](https://github.com/aneeshpatne/Resume.AI)** - RAG-powered resume chatbot with multiple LLM providers (Groq, OpenRouter, Ollama)
+`Python` `LangChain` `ChromaDB` `Groq` `DeepSeek R1`
+
+**[GymDost](https://github.com/aneeshpatne/GymDost)** - AI fitness tracker with GPT-4.1 conversational meal logging and macro calculations
+`Next.js 15` `Prisma` `OpenAI` `Zustand` `TypeScript`
+
+**[MarketPlace](https://github.com/aneeshpatne/MarketPlace)** - AI e-commerce search with intelligent web scraping
+`Next.js` `FastAPI` `Playwright` `OpenAI`
+
+**[LifeSpan](https://github.com/aneeshpatne/LifeSpan)** - ML-powered air pollution impact analysis (ELM, Neural Networks, Random Forest, SVM, KNN - 0.994 R² score)
+`Next.js` `Python` `D3.js` `scikit-learn` `NASA Data`
+
+**[FaceRecognition](https://github.com/aneeshpatne/FaceRecognitionAttendenceSystem)** - Real-time attendance system with face detection
+`Python` `OpenCV` `KNN/SVM`
+
+### 🌐 Full Stack Applications
+
+**[practice-coder](https://github.com/aneeshpatne/practice-coder)** - LeetCode-style platform with Monaco editor, test execution, and AI code reviews
+`React 19` `TypeScript` `Monaco Editor` `Vercel AI SDK` `Python Judge`
+
+**[Dashboard](https://github.com/aneeshpatne/Dashboard)** - URL shortener + file sharing platform
+`Next.js` `Supabase` `Prisma` `Express`
+
+**[CodeLog](https://github.com/aneeshpatne/CodeLog)** - Automated LeetCode question logging with LLM integration
+`Flask` `Playwright` `LLM`
+
+### 🔌 IoT & Embedded Systems
+
+**[E-INK-Dashboard](https://github.com/aneeshpatne/E-INK-Dashboard)** - Orchestration system turning jailbroken Kindles into smart displays with 4 modes, scheduling, sensors, and SSH management
+`Node.js` `Puppeteer` `Redis` `SSH2` `Canvas` `Fbink`
+
+**[SmartLock](https://github.com/aneeshpatne/SmartLock) + [Android](https://github.com/aneeshpatne/SmartLockAndroid)** - ESP32 smart lock with Android authenticator, QR setup, and RFC 6238 TOTP
+`Kotlin` `Jetpack Compose` `ESP32` `Arduino` `TOTP`
+
+**[CCTV](https://github.com/aneeshpatne/CCTV)** - Self-hosted surveillance with motion detection, RTSP restreaming, Telegram alerts, and GPU compression
+`Python` `FastAPI` `OpenCV` `FFmpeg` `ESP32-CAM` `Telegram Bot`
 
 ---
 
@@ -175,7 +118,7 @@ Full-stack coding practice platform with Monaco editor, test execution, AI code 
 <div align="center">
 
 ### Languages
-![Languages](https://skillicons.dev/icons?i=ts,py,java,kotlin,go,cpp)
+![Languages](https://skillicons.dev/icons?i=ts,py,java,kotlin,go)
 
 ### Frontend
 ![Frontend](https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css)
@@ -215,17 +158,6 @@ Full-stack coding practice platform with Monaco editor, test execution, AI code 
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=aneeshpatne&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-</td>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aneeshpatne&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=HTML,jupyter%20notebook,css,Handlebars" alt="Top Languages" />
-</td>
-</tr>
-</table>
-
 <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=aneeshpatne&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 ### Activity Graph
@@ -241,35 +173,6 @@ Full-stack coding practice platform with Monaco editor, test execution, AI code 
 <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aneeshpatne&theme=tokyonight&utcOffset=5.5" alt="Productive Time"/></td>
 </tr>
 </table>
-
-</div>
-
----
-
-## Hackathons & Competitions
-
-- **Smart India Hackathon (SIH)** - Built backend systems and data preprocessing pipelines
-- **Google Developer Student Club Solutions Challenge 2024** - Vishv project
-- **LetsGrowMore Virtual Internship Program** - Data Science tasks
-
----
-
-## Connect with Me
-
-<div align="center">
-
-<a href="https://aneeshpatne.com">
-  <img src="https://img.shields.io/badge/Portfolio-aneeshpatne.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-</a>
-<a href="https://www.linkedin.com/in/aneeshpatne/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://leetcode.com/aneeshpatne/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/>
-</a>
-<a href="mailto:aneeshpatne@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
 
 </div>
 
