@@ -3,14 +3,7 @@
 <!-- Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20I'm%20Aneesh!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;AI+%26+ML+Engineer;IoT+%26+Embedded+Systems+Builder;Building+Production-Ready+Systems" alt="Typing SVG" /></a>
-
-<!-- Profile Views & Social Badges -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=aneeshpatne&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <a href="https://github.com/aneeshpatne?tab=followers"><img src="https://img.shields.io/github/followers/aneeshpatne?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers"/></a>
-</p>
+<h3>Full Stack Developer | AI & ML Engineer | IoT & Embedded Systems Builder</h3>
 
 </div>
 
