@@ -1,180 +1,125 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20I'm%20Aneesh!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+# Aneesh Patne
 
-<h3>Full Stack Developer | AI & ML Engineer | IoT & Embedded Systems Builder</h3>
+### Software engineer building reliable data systems, applied AI, and native products
 
-</div>
-
----
-
-## About Me <img src="img/hand.gif" width="25">
-
-I'm a developer who builds **production-ready systems** across the full stack. From enterprise authentication services to AI-powered search platforms, I focus on creating robust, scalable applications.
-
-<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
-
-- **Full Stack Development**: I build complete applications using **Next.js 15**, **React 19**, **Spring Boot**, **FastAPI**, and **Node.js**. My projects range from real-time chat platforms to e-commerce systems with AI-powered search.
-
-- **AI & ML Engineering**: I implement **RAG pipelines** with **LangChain** and **ChromaDB**, build **multi-provider AI chat systems** using **Vercel AI SDK**, and develop ML models for real-world problems like air quality impact analysis and facial recognition.
-
-- **IoT & Embedded Systems**: I've built a complete **E-Paper Dashboard** system that turns jailbroken Kindles into smart displays, **TOTP-based Smart Locks** with companion Android apps, and **CCTV automation** with motion detection and Telegram alerts.
-
-<br clear="both">
-
----
-
-## Connect with Me
-
-<div align="center">
-
-<a href="https://aneeshpatne.com">
-  <img src="https://img.shields.io/badge/Portfolio-aneeshpatne.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-</a>
-<a href="https://www.linkedin.com/in/aneeshpatne/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://leetcode.com/aneeshpatne/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/>
-</a>
-<a href="mailto:aneeshpatne@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
+[![Portfolio](https://img.shields.io/badge/aneeshpatne.com-0d1117?style=flat-square&logo=safari&logoColor=58a6ff)](https://aneeshpatne.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=58a6ff)](https://www.linkedin.com/in/aneeshpatne/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-0d1117?style=flat-square&logo=leetcode&logoColor=ffa116)](https://leetcode.com/aneeshpatne/)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=ea4335)](mailto:aneeshpatne@gmail.com)
 
 </div>
 
----
+I build systems with moving parts: queues, streams, search indexes, model pipelines, device telemetry, and the clients that make them useful. My recent work spans event-driven services, semantic retrieval, weather intelligence, and native Android and iOS applications.
 
-## Projects by Domain
+**Currently focused on:** distributed backends · retrieval systems · applied AI · native mobile
 
-### 🔐 Backend & Enterprise Systems
+## Featured systems
 
-**[Suraksha](https://github.com/aneeshpatne/suraksha)** - Production-ready multi-tenant auth service with Email/Password, Magic URLs, 2FA/OTP, JWT (RS256), token rotation, and RabbitMQ
-`Spring Boot` `PostgreSQL` `Redis` `RabbitMQ` `JWT` `Flyway`
+### Atlas — Kindle E-Paper Dashboard Control Plane `Private · Current work`
 
-**[Khoj](https://github.com/aneeshpatne/Khoj)** - Change Data Capture pipeline with Debezium, Kafka & OpenSearch
-`PostgreSQL` `Kafka` `OpenSearch` `Docker`
+A Go control plane that schedules browser, native-text, environmental, and sensor-history views across Kindle dashboards, with device management, persistence, health probes, structured logging, and Prometheus metrics.
 
-**[goredis](https://github.com/aneeshpatne/goredis)** - Redis server implementation from scratch
-`Go` `TCP` `RESP Protocol`
+`Go` · `Redis` · `SQLite` · `PostgreSQL` · `Chromedp` · `Docker`
 
-### 🤖 AI & Machine Learning
+### Prism — Semantic Story Retrieval Service `Private · Current work`
 
-**[Curiosity](https://github.com/aneeshpatne/Curiosity)** - Multi-modal AI search with 3 modes (Normal/Pro/Deep Search with 100+ source synthesis), real-time streaming, and automated news digests
-`Next.js 15` `FastAPI` `LangChain` `OpenAI` `Playwright` `Socket.io`
+A typed gRPC ingestion and retrieval service using BGE embeddings, PostgreSQL with pgvector, HNSW cosine indexes, multi-query search, and SQL-based result deduplication.
 
-**[Chat](https://github.com/aneeshpatne/chat)** - Unified interface for OpenAI, Claude, Gemini, Grok, DeepSeek, Llama & Qwen with session persistence and token tracking
-`Next.js 15` `Vercel AI SDK` `Supabase` `Drizzle ORM` `TypeScript`
+`Python` · `gRPC` · `Protocol Buffers` · `PostgreSQL` · `pgvector` · `SentenceTransformers`
 
-**[Resume.AI](https://github.com/aneeshpatne/Resume.AI)** - RAG-powered resume chatbot with multiple LLM providers (Groq, OpenRouter, Ollama)
-`Python` `LangChain` `ChromaDB` `Groq` `DeepSeek R1`
+### Aegis — Discord AI Automation Assistant `Private · Current work`
 
-**[GymDost](https://github.com/aneeshpatne/GymDost)** - AI fitness tracker with GPT-4.1 conversational meal logging and macro calculations
-`Next.js 15` `Prisma` `OpenAI` `Zustand` `TypeScript`
+A persistent Discord assistant with guarded AI workflows, per-channel context, token-aware compaction, queued background jobs, and resilient macOS service execution.
 
-**[MarketPlace](https://github.com/aneeshpatne/MarketPlace)** - AI e-commerce search with intelligent web scraping
-`Next.js` `FastAPI` `Playwright` `OpenAI`
+`TypeScript` · `Discord.js` · `LangChain` · `BullMQ` · `Redis` · `SQLite`
 
-**[LifeSpan](https://github.com/aneeshpatne/LifeSpan)** - ML-powered air pollution impact analysis (ELM, Neural Networks, Random Forest, SVM, KNN - 0.994 R² score)
-`Next.js` `Python` `D3.js` `scikit-learn` `NASA Data`
+### [news — Always-On News Ingestion and Triage](https://github.com/aneeshpatne/news)
 
-**[FaceRecognition](https://github.com/aneeshpatne/FaceRecognitionAttendenceSystem)** - Real-time attendance system with face detection
-`Python` `OpenCV` `KNN/SVM`
+An ingestion backend that combines browser automation, queued processing, AI enrichment, deduplication, and local gRPC services to collect and triage stories continuously.
 
-### 🌐 Full Stack Applications
+`Bun` · `TypeScript` · `BullMQ` · `Redis` · `Playwright` · `gRPC`
 
-**[practice-coder](https://github.com/aneeshpatne/practice-coder)** - LeetCode-style platform with Monaco editor, test execution, and AI code reviews
-`React 19` `TypeScript` `Monaco Editor` `Vercel AI SDK` `Python Judge`
+### [mausam3.0 — AI Weather Nowcasting Pipeline](https://github.com/aneeshpatne/mausam3.0)
 
-**[Dashboard](https://github.com/aneeshpatne/Dashboard)** - URL shortener + file sharing platform
-`Next.js` `Supabase` `Prisma` `Express`
+A Mumbai MMR weather pipeline that captures radar and forecast imagery, normalizes and stores it, skips unchanged inputs, and feeds downstream AI analysis and delivery workflows.
 
-**[CodeLog](https://github.com/aneeshpatne/CodeLog)** - Automated LeetCode question logging with LLM integration
-`Flask` `Playwright` `LLM`
+`Bun` · `TypeScript` · `LangChain` · `AWS SDK` · `Puppeteer` · `gRPC`
 
-### 🔌 IoT & Embedded Systems
+### [Forma](https://github.com/aneeshpatne/Forma) + [Forma iOS](https://github.com/aneeshpatne/Forma_IOS) — Native Body-Composition Clients
 
-**[E-INK-Dashboard](https://github.com/aneeshpatne/E-INK-Dashboard)** - Orchestration system turning jailbroken Kindles into smart displays with 4 modes, scheduling, sensors, and SSH management
-`Node.js` `Puppeteer` `Redis` `SSH2` `Canvas` `Fbink`
+Android and iOS applications for body-composition tracking, Bluetooth smart-scale capture, health dashboards, native data visualization, and backend-synchronized measurements.
 
-**[SmartLock](https://github.com/aneeshpatne/SmartLock) + [Android](https://github.com/aneeshpatne/SmartLockAndroid)** - ESP32 smart lock with Android authenticator, QR setup, and RFC 6238 TOTP
-`Kotlin` `Jetpack Compose` `ESP32` `Arduino` `TOTP`
+`Kotlin` · `Jetpack Compose` · `Bluetooth LE` · `Swift` · `SwiftUI` · `Swift Charts`
 
-**[CCTV](https://github.com/aneeshpatne/CCTV)** - Self-hosted surveillance with motion detection, RTSP restreaming, Telegram alerts, and GPU compression
-`Python` `FastAPI` `OpenCV` `FFmpeg` `ESP32-CAM` `Telegram Bot`
+<sub>Private projects are included to show current engineering work; their implementations remain private.</sub>
 
----
+<details>
+<summary><strong>More projects</strong></summary>
+<br>
 
-## Tech Stack
+- [hyper-storage-vault](https://github.com/aneeshpatne/hyper-storage-vault) — AI-workflow storage service with vector retrieval, relational persistence, caching, and a typed RPC boundary.
+- [suraksha](https://github.com/aneeshpatne/suraksha) — multi-tenant authentication service with token rotation, OTP flows, asynchronous messaging, and schema migrations.
+- [Khoj](https://github.com/aneeshpatne/Khoj) — Change Data Capture pipeline streaming PostgreSQL changes into an OpenSearch index.
+- [CCTV](https://github.com/aneeshpatne/CCTV) — self-hosted surveillance automation with motion detection, RTSP restreaming, alerts, and video processing.
+- [practice-coder](https://github.com/aneeshpatne/practice-coder) — coding environment with Monaco, test execution, and AI-assisted reviews.
+- [E-INK-Dashboard](https://github.com/aneeshpatne/E-INK-Dashboard) — orchestration software that turns jailbroken Kindles into scheduled information displays.
+- [SmartLock](https://github.com/aneeshpatne/SmartLock) + [Android client](https://github.com/aneeshpatne/SmartLockAndroid) — ESP32 lock and companion authenticator using RFC 6238 TOTP.
+- [Curiosity](https://github.com/aneeshpatne/Curiosity) — AI search and news-intelligence platform built around FastAPI, Next.js, and web retrieval.
+
+</details>
+
+## Engineering toolbox
 
 <div align="center">
 
 ### Languages
-![Languages](https://skillicons.dev/icons?i=ts,py,java,kotlin,go)
 
-### Frontend
-![Frontend](https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css)
+[![Languages](https://skillicons.dev/icons?i=ts,py,go,java,kotlin,swift&theme=dark&perline=6)](https://skillicons.dev)
 
-### Backend & APIs
-![Backend](https://skillicons.dev/icons?i=spring,nodejs,express,fastapi,flask)
+### Backend, data & infrastructure
 
-### AI & ML
-![AI](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn)
-<br>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
-<img src="https://img.shields.io/badge/Vercel_AI_SDK-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel AI SDK"/>
-<img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge" alt="ChromaDB"/>
+[![Backend, data, and infrastructure](https://skillicons.dev/icons?i=bun,spring,fastapi,postgres,redis,kafka,rabbitmq,docker,linux&theme=dark&perline=9)](https://skillicons.dev)
 
-### Databases
-![Database](https://skillicons.dev/icons?i=postgresql,mongodb,redis,supabase,sqlite)
+### Product & native applications
 
-### DevOps & Streaming
-![DevOps](https://skillicons.dev/icons?i=docker,kafka,rabbitmq,linux,git)
+[![Product and native applications](https://skillicons.dev/icons?i=nextjs,react,tailwind,androidstudio,apple,firebase&theme=dark&perline=6)](https://skillicons.dev)
 
-### IoT & Embedded
-![IoT](https://skillicons.dev/icons?i=arduino)
-<br>
-<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32"/>
-<img src="https://img.shields.io/badge/ESP8266-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP8266"/>
-<img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white" alt="Puppeteer"/>
+### Search, AI & automation
 
-### Cloud & Deployment
-![Cloud](https://skillicons.dev/icons?i=gcp,firebase,vercel)
+![gRPC](https://img.shields.io/badge/gRPC-0d1117?style=flat-square&logo=google&logoColor=58a6ff)
+![Protocol Buffers](https://img.shields.io/badge/Protocol_Buffers-0d1117?style=flat-square&logo=google&logoColor=4285f4)
+![pgvector](https://img.shields.io/badge/pgvector-0d1117?style=flat-square&logo=postgresql&logoColor=4169e1)
+![OpenSearch](https://img.shields.io/badge/OpenSearch-0d1117?style=flat-square&logo=opensearch&logoColor=005eb8)
+![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=flat-square&logo=langchain&logoColor=ffffff)
+![Playwright](https://img.shields.io/badge/Playwright-0d1117?style=flat-square&logo=playwright&logoColor=2ead33)
+![BullMQ](https://img.shields.io/badge/BullMQ-0d1117?style=flat-square&logo=redis&logoColor=ff4438)
 
 </div>
 
----
-
-## GitHub Stats
+## Development activity
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=aneeshpatne&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aneeshpatne&theme=github_dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aneeshpatne&theme=github">
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aneeshpatne&theme=github" alt="Aneesh Patne's GitHub contribution summary">
+</picture>
 
-### Activity Graph
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=aneeshpatne&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
+<br><br>
 
-### Contribution Summary
-![GitHub Contribution Calendar](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aneeshpatne&theme=tokyonight)
-
-<table>
-<tr>
-<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aneeshpatne&theme=tokyonight" alt="Repos Per Language"/></td>
-<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aneeshpatne&theme=tokyonight" alt="Most Commit Language"/></td>
-<td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aneeshpatne&theme=tokyonight&utcOffset=5.5" alt="Productive Time"/></td>
-</tr>
-</table>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aneeshpatne&theme=github_dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aneeshpatne&theme=github">
+  <img width="58%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aneeshpatne&theme=github" alt="Aneesh Patne's repositories by language">
+</picture>
 
 </div>
 
 ---
 
 <div align="center">
-
-### Thanks for visiting!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-
+<sub>Build the system. Trace the failure. Improve the loop.</sub>
 </div>
