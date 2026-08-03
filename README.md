@@ -117,26 +117,6 @@ Android and iOS applications for body-composition tracking, Bluetooth smart-scal
 
 </div>
 
-## Development activity
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aneeshpatne&theme=github_dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aneeshpatne&theme=github">
-  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aneeshpatne&theme=github" alt="Aneesh Patne's GitHub contribution summary">
-</picture>
-
-<br><br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aneeshpatne&theme=github_dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aneeshpatne&theme=github">
-  <img width="58%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aneeshpatne&theme=github" alt="Aneesh Patne's repositories by language">
-</picture>
-
-</div>
-
 ---
 
 <div align="center">
