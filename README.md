@@ -11,11 +11,23 @@
 
 </div>
 
-I build systems with moving parts: queues, streams, search indexes, model pipelines, device telemetry, and the clients that make them useful. My recent work spans event-driven services, semantic retrieval, weather intelligence, and native Android and iOS applications.
+I build systems with moving parts: queues, streams, search indexes, model pipelines, device telemetry, and the clients that make them useful. My recent work spans event-driven services, semantic retrieval, deep research, intelligence dashboards, and native Android and iOS applications.
 
-**Currently focused on:** distributed backends · retrieval systems · applied AI · native mobile
+**Currently focused on:** distributed backends · retrieval systems · applied AI · research tooling · native mobile
 
 ## Featured systems
+
+### Midas — Indian Equity Multi-Agent Research Desk `Current work`
+
+An AI-assisted equity research desk that turns sector, NSE index, company, or event prompts into staged screening, adversarial challenge, equal-depth diligence, and investment-committee reports. It combines Indian market evidence tools, web research, Ollama compression, optional Redis caching, and a Textual UI with SQLite session resume.
+
+`Python` · `LangChain` · `Deep Agents` · `Camoufox` · `Redis` · `Textual`
+
+### Odin — Deep Research Agent for Illustrated Longform `Current work`
+
+An illustrated deep-research CLI that plans multi-source investigations, runs competing research frames, audits depth gaps, and emits Markdown and PDF longform. It combines DuckDuckGo and Camoufox research, Ollama page compression, Prism gRPC archive search, and Pillow-based visual synthesis.
+
+`Python` · `LangChain` · `Deep Agents` · `Camoufox` · `gRPC` · `Pillow`
 
 ### Atlas — Kindle E-Paper Dashboard Control Plane `Private · Current work`
 
@@ -34,6 +46,12 @@ A typed gRPC ingestion and retrieval service using BGE embeddings, PostgreSQL wi
 A persistent Discord assistant with guarded AI workflows, per-channel context, token-aware compaction, queued background jobs, and resilient macOS service execution.
 
 `TypeScript` · `Discord.js` · `LangChain` · `BullMQ` · `Redis` · `SQLite`
+
+### Intel — AI Geopolitical Intelligence Dashboard `Current work`
+
+An AI-assisted intelligence dashboard that turns Redis news digests and Telegram signals into mapped events, stability scores, and source-backed reports. It pairs scheduled OSINT collection and Zod-validated model tools with Astro and React views, Leaflet event maps, and Playwright publisher scraping.
+
+`JavaScript` · `Astro` · `React` · `Express` · `Redis` · `BullMQ`
 
 ### [news — Always-On News Ingestion and Triage](https://github.com/aneeshpatne/news)
 
@@ -60,6 +78,7 @@ Android and iOS applications for body-composition tracking, Bluetooth smart-scal
 <br>
 
 - [hyper-storage-vault](https://github.com/aneeshpatne/hyper-storage-vault) — AI-workflow storage service with vector retrieval, relational persistence, caching, and a typed RPC boundary.
+- [personal-portfolio-astro](https://github.com/aneeshpatne/personal-portfolio-astro) — Astro portfolio with a typed project catalog, archive search and filters, case-study routes, and Cloudflare Workers deployment.
 - [suraksha](https://github.com/aneeshpatne/suraksha) — multi-tenant authentication service with token rotation, OTP flows, asynchronous messaging, and schema migrations.
 - [Khoj](https://github.com/aneeshpatne/Khoj) — Change Data Capture pipeline streaming PostgreSQL changes into an OpenSearch index.
 - [CCTV](https://github.com/aneeshpatne/CCTV) — self-hosted surveillance automation with motion detection, RTSP restreaming, alerts, and video processing.
