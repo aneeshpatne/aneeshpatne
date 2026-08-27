@@ -2,123 +2,68 @@
 
 # Aneesh Patne
 
-### Software engineer building reliable data systems, applied AI, and native products
+### Backend and applied AI engineer building reliable data, retrieval, and automation systems
 
-[![Portfolio](https://img.shields.io/badge/aneeshpatne.com-0d1117?style=flat-square&logo=safari&logoColor=58a6ff)](https://aneeshpatne.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=safari&logoColor=58a6ff)](https://aneeshpatne.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=58a6ff)](https://www.linkedin.com/in/aneeshpatne/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-0d1117?style=flat-square&logo=leetcode&logoColor=ffa116)](https://leetcode.com/aneeshpatne/)
-[![Email](https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=ea4335)](mailto:aneeshpatne@gmail.com)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=ea4335)](mailto:aneeshpatne12@gmail.com)
+
+**Fresher · Open to backend and applied AI roles · Willing to work in Mumbai or Bengaluru · Open to remote roles**
 
 </div>
 
-I build systems with moving parts: queues, streams, search indexes, model pipelines, device telemetry, and the clients that make them useful. My recent work spans event-driven services, semantic retrieval, deep research, intelligence dashboards, and native Android and iOS applications.
+I am an early-career engineer who likes taking systems beyond the demo stage. I build and operate software that collects real-world data, survives unreliable dependencies, and turns that data into something useful—from breaking-news alerts and searchable camera footage to developer tools used by others.
 
-**Currently focused on:** distributed backends · retrieval systems · applied AI · research tooling · native mobile
+My strongest work is in backend systems, data pipelines, retrieval, and applied AI. I care about explicit state, measurable behavior, safe failure recovery, and documenting what a system can and cannot do.
 
-## Featured systems
+## Featured work
 
-### Midas — Indian Equity Multi-Agent Research Desk `Current work`
+### [Nova](https://github.com/aneeshpatne/Nova) — A personal breaking-news desk
 
-An AI-assisted equity research desk that turns sector, NSE index, company, or event prompts into staged screening, adversarial challenge, equal-depth diligence, and investment-committee reports. It combines Indian market evidence tools, web research, Ollama compression, optional Redis caching, and a Textual UI with SQLite session resume.
+Nova monitors public news sources throughout the day, reads and deduplicates new articles, and alerts me to important developments—typically within **15 minutes**—through Discord, a network siren, and a Kindle display.
 
-`Python` · `LangChain` · `Deep Agents` · `Camoufox` · `Redis` · `Textual`
+It has operated continuously since June 2026, extracting **6,643 articles** from **21,182 visited pages across 666 sources**—about **99 articles per day**—and delivering **550 breaking-news alerts** as of August 2026. Failed channels can be retried independently, duplicate ingestion is guarded at the database boundary, and browser failures do not discard already completed work.
 
-### Odin — Deep Research Agent for Illustrated Longform `Current work`
+`TypeScript` · `Bun` · `BullMQ` · `Redis` · `gRPC` · `PostgreSQL` · `pgvector`
 
-An illustrated deep-research CLI that plans multi-source investigations, runs competing research frames, audits depth gaps, and emits Markdown and PDF longform. It combines DuckDuckGo and Camoufox research, Ollama page compression, Prism gRPC archive search, and Pillow-based visual synthesis.
+**[Source code](https://github.com/aneeshpatne/Nova)** · **[Case study](https://aneeshpatne.com/projects/nova)**
 
-`Python` · `LangChain` · `Deep Agents` · `Camoufox` · `gRPC` · `Pillow`
+### [WeeklyGrant](https://github.com/aneeshpatne/weeklygrant) — A privacy-first Codex usage estimator
 
-### Atlas — Kindle E-Paper Dashboard Control Plane `Private · Current work`
+WeeklyGrant is an npm CLI and interactive terminal app that estimates what a weekly Codex grant would cost at API rates. It reads local session logs without uploading their contents and provides both a human-friendly interface and redacted JSON output for automation.
 
-A Go control plane that schedules browser, native-text, environmental, and sensor-history views across Kindle dashboards, with device management, persistence, health probes, structured logging, and Prometheus metrics.
+The package reached **1,500+ npm downloads in its first weeks**. It ships with automated tests, CI, dependency audits, release history, and security documentation.
 
-`Go` · `Redis` · `SQLite` · `PostgreSQL` · `Chromedp` · `Docker`
+`TypeScript` · `Node.js` · `React Ink` · `Worker Threads` · `CI`
 
-### Prism — Semantic Story Retrieval Service `Private · Current work`
+**[Source code](https://github.com/aneeshpatne/weeklygrant)** · **[Case study](https://aneeshpatne.com/projects/weeklygrant)** · **[npm](https://www.npmjs.com/package/weeklygrant)**
 
-A typed gRPC ingestion and retrieval service using BGE embeddings, PostgreSQL with pgvector, HNSW cosine indexes, multi-query search, and SQL-based result deduplication.
+### [CCTV](https://github.com/aneeshpatne/CCTV) — Searchable, self-hosted video monitoring
 
-`Python` · `gRPC` · `Protocol Buffers` · `PostgreSQL` · `pgvector` · `SentenceTransformers`
+CCTV turns an ESP32-CAM feed into a live health view, searchable recordings, motion events, trimmed clips, and scheduled Discord reports. The current deployment retains roughly **500 hours of footage** and **5,760 indexed motion events**.
 
-### Aegis — Discord AI Automation Assistant `Private · Current work`
+I moved the latency-sensitive capture path from Python to Swift while retaining Python as an automatic fallback. In a documented Apple M4 rollout canary, the native path reduced median capture-process CPU by **65.6%** and representative segment size by **69.3%**. The repository includes **128 tests** across Python and Swift and documents the benchmark limitations.
 
-A persistent Discord assistant with guarded AI workflows, per-channel context, token-aware compaction, queued background jobs, and resilient macOS service execution.
+`Swift` · `Python` · `VideoToolbox` · `Vision` · `FastAPI` · `SQLite` · `gRPC`
 
-`TypeScript` · `Discord.js` · `LangChain` · `BullMQ` · `Redis` · `SQLite`
+**[Source code](https://github.com/aneeshpatne/CCTV)** · **[Case study](https://aneeshpatne.com/projects/cctv)**
 
-### Intel — AI Geopolitical Intelligence Dashboard `Current work`
+## Selected additional work
 
-An AI-assisted intelligence dashboard that turns Redis news digests and Telegram signals into mapped events, stability scores, and source-backed reports. It pairs scheduled OSINT collection and Zod-validated model tools with Astro and React views, Leaflet event maps, and Playwright publisher scraping.
+| Project | What I built | Links |
+| --- | --- | --- |
+| **Nilo** | A desktop workspace for running coding agents against real repositories, with approval gates, inspectable patches, isolated Git worktrees, resumable event history, SSH execution, and 148 automated tests. | [Source](https://github.com/aneeshpatne/Nilo) · [Case study](https://aneeshpatne.com/projects/nilo) |
+| **Midas** | An Indian-equity research desk that investigates a company, sector, or event; preserves the supporting evidence; challenges its first conclusion; and produces a structured decision brief that a person can review instead of asking them to trust one opaque answer. | [Source](https://github.com/aneeshpatne/Midas) · [Case study](https://aneeshpatne.com/projects/midas) |
+| **HealthMaxxing** | A SwiftUI and Bun/Fastify monorepo that captures Bluetooth smart-scale readings, tracks body composition over time, and creates asynchronous insight reports. Its live dataset contains 185 measurements and 736 generated reports. | [Source](https://github.com/aneeshpatne/healthmaxxing) · [Case study](https://aneeshpatne.com/projects/forma-ios) |
+| **Atlas** | A Go control plane that schedules browser, text, weather, and sensor views across repurposed Kindle dashboards, with lifecycle supervision and health monitoring. | Source private · [Case study](https://aneeshpatne.com/projects/atlas) |
+| **Suraksha** | A multi-tenant authentication service with token rotation, OTP flows, asynchronous messaging, and schema migrations. | [Source](https://github.com/aneeshpatne/suraksha) · [Case study](https://aneeshpatne.com/projects/suraksha) |
+| **Mausam 3.0** | A Mumbai weather pipeline that captures radar and forecast evidence, skips unchanged inputs, and feeds downstream analysis and alerts. | [Source](https://github.com/aneeshpatne/mausam3.0) · [Case study](https://aneeshpatne.com/projects/mausam-3) |
 
-`JavaScript` · `Astro` · `React` · `Express` · `Redis` · `BullMQ`
+## Core technologies
 
-### [news — Always-On News Ingestion and Triage](https://github.com/aneeshpatne/news)
+- **Languages:** TypeScript, Python, Go, Swift, Kotlin
+- **Backend and data:** Bun, FastAPI, PostgreSQL, Redis, BullMQ, SQLite
+- **Retrieval and applied AI:** pgvector, OpenSearch, embeddings, tool-using workflows
+- **Interfaces and operations:** gRPC, Protocol Buffers, REST, Docker, Linux, CI
 
-An ingestion backend that combines browser automation, queued processing, AI enrichment, deduplication, and local gRPC services to collect and triage stories continuously.
-
-`Bun` · `TypeScript` · `BullMQ` · `Redis` · `Playwright` · `gRPC`
-
-### [mausam3.0 — AI Weather Nowcasting Pipeline](https://github.com/aneeshpatne/mausam3.0)
-
-A Mumbai MMR weather pipeline that captures radar and forecast imagery, normalizes and stores it, skips unchanged inputs, and feeds downstream AI analysis and delivery workflows.
-
-`Bun` · `TypeScript` · `LangChain` · `AWS SDK` · `Puppeteer` · `gRPC`
-
-### [Forma](https://github.com/aneeshpatne/Forma) + [Forma iOS](https://github.com/aneeshpatne/Forma_IOS) — Native Body-Composition Clients
-
-Android and iOS applications for body-composition tracking, Bluetooth smart-scale capture, health dashboards, native data visualization, and backend-synchronized measurements.
-
-`Kotlin` · `Jetpack Compose` · `Bluetooth LE` · `Swift` · `SwiftUI` · `Swift Charts`
-
-<sub>Private projects are included to show current engineering work; their implementations remain private.</sub>
-
-<details>
-<summary><strong>More projects</strong></summary>
-<br>
-
-- [hyper-storage-vault](https://github.com/aneeshpatne/hyper-storage-vault) — AI-workflow storage service with vector retrieval, relational persistence, caching, and a typed RPC boundary.
-- [personal-portfolio-astro](https://github.com/aneeshpatne/personal-portfolio-astro) — Astro portfolio with a typed project catalog, archive search and filters, case-study routes, and Cloudflare Workers deployment.
-- [suraksha](https://github.com/aneeshpatne/suraksha) — multi-tenant authentication service with token rotation, OTP flows, asynchronous messaging, and schema migrations.
-- [Khoj](https://github.com/aneeshpatne/Khoj) — Change Data Capture pipeline streaming PostgreSQL changes into an OpenSearch index.
-- [CCTV](https://github.com/aneeshpatne/CCTV) — self-hosted surveillance automation with motion detection, RTSP restreaming, alerts, and video processing.
-- [practice-coder](https://github.com/aneeshpatne/practice-coder) — coding environment with Monaco, test execution, and AI-assisted reviews.
-- [E-INK-Dashboard](https://github.com/aneeshpatne/E-INK-Dashboard) — orchestration software that turns jailbroken Kindles into scheduled information displays.
-- [SmartLock](https://github.com/aneeshpatne/SmartLock) + [Android client](https://github.com/aneeshpatne/SmartLockAndroid) — ESP32 lock and companion authenticator using RFC 6238 TOTP.
-- [Curiosity](https://github.com/aneeshpatne/Curiosity) — AI search and news-intelligence platform built around FastAPI, Next.js, and web retrieval.
-
-</details>
-
-## Engineering toolbox
-
-<div align="center">
-
-### Languages
-
-[![Languages](https://skillicons.dev/icons?i=ts,py,go,java,kotlin,swift&theme=dark&perline=6)](https://skillicons.dev)
-
-### Backend, data & infrastructure
-
-[![Backend, data, and infrastructure](https://skillicons.dev/icons?i=bun,spring,fastapi,postgres,redis,kafka,rabbitmq,docker,linux&theme=dark&perline=9)](https://skillicons.dev)
-
-### Product & native applications
-
-[![Product and native applications](https://skillicons.dev/icons?i=nextjs,react,tailwind,androidstudio,apple,firebase&theme=dark&perline=6)](https://skillicons.dev)
-
-### Search, AI & automation
-
-![gRPC](https://img.shields.io/badge/gRPC-0d1117?style=flat-square&logo=google&logoColor=58a6ff)
-![Protocol Buffers](https://img.shields.io/badge/Protocol_Buffers-0d1117?style=flat-square&logo=google&logoColor=4285f4)
-![pgvector](https://img.shields.io/badge/pgvector-0d1117?style=flat-square&logo=postgresql&logoColor=4169e1)
-![OpenSearch](https://img.shields.io/badge/OpenSearch-0d1117?style=flat-square&logo=opensearch&logoColor=005eb8)
-![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=flat-square&logo=langchain&logoColor=ffffff)
-![Playwright](https://img.shields.io/badge/Playwright-0d1117?style=flat-square&logo=playwright&logoColor=2ead33)
-![BullMQ](https://img.shields.io/badge/BullMQ-0d1117?style=flat-square&logo=redis&logoColor=ff4438)
-
-</div>
-
----
-
-<div align="center">
-<sub>Build the system. Trace the failure. Improve the loop.</sub>
-</div>
+I am looking for a team where I can grow through production backend or applied AI work while bringing the ownership and systems thinking demonstrated here. If that sounds relevant, reach me through [email](mailto:aneeshpatne12@gmail.com) or [LinkedIn](https://www.linkedin.com/in/aneeshpatne/).
